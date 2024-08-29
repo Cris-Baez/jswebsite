@@ -1,6 +1,11 @@
 // Ocultar el campo con la clase '.elementor-field-group-hidenfield'
 
-
+document.addEventListener('DOMContentLoaded', function() {
+    var container = document.querySelector('.elementor-field-group-hidenfield');
+    if (container) {
+        container.style.display = 'none';
+    }
+});
 // Configurar eventos para los botones basados en la lista de personas y especialidades
 document.addEventListener('DOMContentLoaded', function () {
     // Lista de personas y sus especialidades
