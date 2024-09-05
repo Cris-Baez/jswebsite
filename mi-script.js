@@ -48,7 +48,7 @@ const peopleSpecialties = {
     'Susana Botero Escallon': 'Physiotherapy',
     'Alexander Martinez Rua': 'Ophthalmology',
     'Diego Alejandro Echeverri Marin': 'Internal Medicine',
-    'Jenny Martinez': 'Gynecology',
+    'Jenny Martinez': 'Obstetrics and Gynecology (OB/GYN)',
     'Juan David Ramirez Barrera': 'Internal Medicine',
     'Juan Felipe Vargas': 'Pain Medicine',
     'Leon Felipe Sanin': 'Alternative Medicine',
