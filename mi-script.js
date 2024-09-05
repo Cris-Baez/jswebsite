@@ -44,8 +44,22 @@ const peopleSpecialties = {
     'Mariana Lopez Posada': 'Ophthalmology',
     'Gustavo A Espinoza Garcia': 'Ophthalmology',
     'Juan Vicente Espinoza': 'Ophthalmology',
-    'Miguel Cuevas Pelaez': 'Ophthalmology'
+    'Miguel Cuevas Pelaez': 'Ophthalmology',
+    'Susana Botero Escallon': 'Physiotherapy',
+    'Alexander Martinez Rua': 'Ophthalmology',
+    'Diego Alejandro Echeverri Marin': 'Internal Medicine',
+    'Jenny Martinez': 'Gynecology',
+    'Juan David Ramirez Barrera': 'Internal Medicine',
+    'Juan Felipe Vargas': 'Pain Medicine',
+    'Leon Felipe Sanin': 'Alternative Medicine',
+    'Mariana Vargas Perdono': 'Nutrition',
+    'Michelle Del Pino Bustos': 'Psychology',
+    'Natalia Herrera Marin': 'Neurology',
+    'Ricardo Antonio Consuegra': 'Psychiatrist',
+    'Sara Correa Perez': 'Pediatrics',
+    'Sergio Cabreara Limpias': 'Neurology'
 };
+
 
 
     // Iterar sobre cada persona y configurar los eventos para los botones
