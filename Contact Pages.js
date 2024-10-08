@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { buttonId: 'button-sports-medicine', specialty: 'Sports Medicine' },
         { buttonId: 'button-urology', specialty: 'Urology' },
         { buttonId: 'button-biotransformation', specialty: 'Biotransformation' }, // Nueva especialidad agregada
+        { buttonId: 'button-performance-preventative', specialty: 'Performance & Preventative Health' }, // Nueva especialidad agregada
     ];
 
     // Iterar sobre cada especialidad y configurar los eventos para los botones
